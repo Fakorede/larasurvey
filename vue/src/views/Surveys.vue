@@ -1,5 +1,5 @@
 <template>
-  <PageComponent title="Dashboard">
+  <PageComponent title="Surveys">
     Content goes here
   </PageComponent>
 </template>
